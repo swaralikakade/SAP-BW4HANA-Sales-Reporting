@@ -142,3 +142,4 @@ Business Report
 Swarali
 
 SAP BW/4HANA Consultant (Learning Journey)
+This project was implemented in the SAP Learning Hub training environment. All screenshots are from a training system and contain no customer or production data
