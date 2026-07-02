@@ -114,8 +114,6 @@ Business Report
 
 ---
 
-# Screenshots
-
 # Skills Demonstrated
 
 - SAP BW/4HANA Modeling
